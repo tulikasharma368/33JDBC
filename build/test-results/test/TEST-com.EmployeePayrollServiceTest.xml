@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.EmployeePayrollServiceTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-09-02T17:52:04" hostname="TULIKA" time="0.489">
+  <properties/>
+  <testcase name="GivenEmployeePayrollDB_WhenRetrieved_ShouldMatchEmployeeCount()" classname="com.EmployeePayrollServiceTest" time="0.489"/>
+  <system-out><![CDATA[Connecting to the Database: jdbc:mysql://localhost:3306/payroll_service?useSSL=false
+Connection is Successfully Established! com.mysql.jdbc.JDBC4Connection@2f1dbdf2
+1,Bill,1000000.0,2018-01-03
+2,Terisa,2000000.0,2019-11-13
+3,Charlie,3000000.0,2020-05-21
+4,Terisa,2000000.0,2019-11-13
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

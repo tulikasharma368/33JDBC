@@ -1,0 +1,6 @@
+VConnecting to the Database: jdbc:mysql://localhost:3306/payroll_service?useSSL=false
+QConnection is Successfully Established! com.mysql.jdbc.JDBC4Connection@2f1dbdf2
+1,Bill,1000000.0,2018-01-03
+2,Terisa,2000000.0,2019-11-13
+ 3,Charlie,3000000.0,2020-05-21
+4,Terisa,2000000.0,2019-11-13
